@@ -1,0 +1,855 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+<manifest filename="C:\Users\pierre\dev\garmin\cadence\manifest.xml"/>
+<pcToLineNum>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\SVStartView.mc" id="1" lineNum="14" parent="globals/SVStartView" pc="268435456" symbol="initialize"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\SVStartView.mc" id="1" lineNum="15" parent="globals/SVStartView" pc="268435460" symbol="initialize"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\SVStartView.mc" id="1" lineNum="16" parent="globals/SVStartView" pc="268435478" symbol="initialize"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\SVStartView.mc" id="2" lineNum="19" parent="globals/SVStartView" pc="268435489" symbol="onShow"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\SVStartView.mc" id="2" lineNum="21" parent="globals/SVStartView" pc="268435493" symbol="onShow"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\SVStartView.mc" id="2" lineNum="22" parent="globals/SVStartView" pc="268435504" symbol="onShow"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\SVStartView.mc" id="2" lineNum="23" parent="globals/SVStartView" pc="268435588" symbol="onShow"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\SVStartView.mc" id="2" lineNum="28" parent="globals/SVStartView" pc="268435601" symbol="onShow"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\SVStartView.mc" id="3" lineNum="11" parent="globals/SVStartView" pc="268443833" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\SVStartView.mc" id="3" lineNum="11" parent="globals/SVStartView" pc="268443833" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\SVStartView.mc" id="4" lineNum="37" parent="globals/SVStartDelegate" pc="268435630" symbol="initialize"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\SVStartView.mc" id="4" lineNum="38" parent="globals/SVStartDelegate" pc="268435634" symbol="initialize"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\SVStartView.mc" id="5" lineNum="36" parent="globals/SVStartDelegate" pc="268443814" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\SVStartView.mc" id="5" lineNum="36" parent="globals/SVStartDelegate" pc="268443814" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\Graphics3D.mc" id="7" lineNum="31" parent="globals/Graphics3D" pc="268435653" symbol="getTranslate"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\Graphics3D.mc" id="7" lineNum="33" parent="globals/Graphics3D" pc="268435665" symbol="getTranslate"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\Graphics3D.mc" id="7" lineNum="34" parent="globals/Graphics3D" pc="268435687" symbol="getTranslate"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\Graphics3D.mc" id="7" lineNum="35" parent="globals/Graphics3D" pc="268435697" symbol="getTranslate"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\Graphics3D.mc" id="7" lineNum="36" parent="globals/Graphics3D" pc="268435707" symbol="getTranslate"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\Graphics3D.mc" id="7" lineNum="37" parent="globals/Graphics3D" pc="268435717" symbol="getTranslate"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\Graphics3D.mc" id="8" lineNum="44" parent="globals/Graphics3D" pc="268435721" symbol="getRotate"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\Graphics3D.mc" id="8" lineNum="46" parent="globals/Graphics3D" pc="268435733" symbol="getRotate"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\Graphics3D.mc" id="8" lineNum="47" parent="globals/Graphics3D" pc="268435755" symbol="getRotate"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\Graphics3D.mc" id="8" lineNum="48" parent="globals/Graphics3D" pc="268435774" symbol="getRotate"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\Graphics3D.mc" id="8" lineNum="49" parent="globals/Graphics3D" pc="268435793" symbol="getRotate"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\Graphics3D.mc" id="8" lineNum="50" parent="globals/Graphics3D" pc="268435803" symbol="getRotate"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\Graphics3D.mc" id="8" lineNum="51" parent="globals/Graphics3D" pc="268435822" symbol="getRotate"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\Graphics3D.mc" id="8" lineNum="52" parent="globals/Graphics3D" pc="268435844" symbol="getRotate"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\Graphics3D.mc" id="8" lineNum="53" parent="globals/Graphics3D" pc="268435866" symbol="getRotate"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\Graphics3D.mc" id="8" lineNum="54" parent="globals/Graphics3D" pc="268435888" symbol="getRotate"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\Graphics3D.mc" id="8" lineNum="55" parent="globals/Graphics3D" pc="268435907" symbol="getRotate"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\Graphics3D.mc" id="8" lineNum="56" parent="globals/Graphics3D" pc="268435929" symbol="getRotate"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\Graphics3D.mc" id="8" lineNum="57" parent="globals/Graphics3D" pc="268435951" symbol="getRotate"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\Graphics3D.mc" id="8" lineNum="58" parent="globals/Graphics3D" pc="268435973" symbol="getRotate"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\Graphics3D.mc" id="8" lineNum="59" parent="globals/Graphics3D" pc="268435992" symbol="getRotate"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\Graphics3D.mc" id="8" lineNum="60" parent="globals/Graphics3D" pc="268436005" symbol="getRotate"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\Graphics3D.mc" id="9" lineNum="67" parent="globals/Graphics3D" pc="268436009" symbol="getScale"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\Graphics3D.mc" id="9" lineNum="69" parent="globals/Graphics3D" pc="268436021" symbol="getScale"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\Graphics3D.mc" id="9" lineNum="70" parent="globals/Graphics3D" pc="268436043" symbol="getScale"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\Graphics3D.mc" id="9" lineNum="71" parent="globals/Graphics3D" pc="268436053" symbol="getScale"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\Graphics3D.mc" id="9" lineNum="72" parent="globals/Graphics3D" pc="268436063" symbol="getScale"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\Graphics3D.mc" id="9" lineNum="73" parent="globals/Graphics3D" pc="268436073" symbol="getScale"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\Graphics3D.mc" id="9" lineNum="74" parent="globals/Graphics3D" pc="268436086" symbol="getScale"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\Graphics3D.mc" id="10" lineNum="80" parent="globals/Graphics3D" pc="268436090" symbol="getLookAt"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\Graphics3D.mc" id="10" lineNum="84" parent="globals/Graphics3D" pc="268436102" symbol="getLookAt"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\Graphics3D.mc" id="10" lineNum="85" parent="globals/Graphics3D" pc="268436124" symbol="getLookAt"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\Graphics3D.mc" id="10" lineNum="86" parent="globals/Graphics3D" pc="268436124" symbol="getLookAt"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\Graphics3D.mc" id="10" lineNum="87" parent="globals/Graphics3D" pc="268436124" symbol="getLookAt"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\Graphics3D.mc" id="10" lineNum="88" parent="globals/Graphics3D" pc="268436124" symbol="getLookAt"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\Graphics3D.mc" id="10" lineNum="89" parent="globals/Graphics3D" pc="268436145" symbol="getLookAt"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\Graphics3D.mc" id="10" lineNum="90" parent="globals/Graphics3D" pc="268436164" symbol="getLookAt"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\Graphics3D.mc" id="10" lineNum="91" parent="globals/Graphics3D" pc="268436185" symbol="getLookAt"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\Graphics3D.mc" id="10" lineNum="92" parent="globals/Graphics3D" pc="268436206" symbol="getLookAt"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\Graphics3D.mc" id="10" lineNum="93" parent="globals/Graphics3D" pc="268436225" symbol="getLookAt"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\Graphics3D.mc" id="10" lineNum="97" parent="globals/Graphics3D" pc="268436244" symbol="getLookAt"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\Graphics3D.mc" id="10" lineNum="98" parent="globals/Graphics3D" pc="268436260" symbol="getLookAt"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\Graphics3D.mc" id="10" lineNum="99" parent="globals/Graphics3D" pc="268436276" symbol="getLookAt"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\Graphics3D.mc" id="10" lineNum="100" parent="globals/Graphics3D" pc="268436292" symbol="getLookAt"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\Graphics3D.mc" id="10" lineNum="101" parent="globals/Graphics3D" pc="268436325" symbol="getLookAt"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\Graphics3D.mc" id="10" lineNum="102" parent="globals/Graphics3D" pc="268436341" symbol="getLookAt"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\Graphics3D.mc" id="10" lineNum="103" parent="globals/Graphics3D" pc="268436357" symbol="getLookAt"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\Graphics3D.mc" id="10" lineNum="104" parent="globals/Graphics3D" pc="268436373" symbol="getLookAt"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\Graphics3D.mc" id="10" lineNum="105" parent="globals/Graphics3D" pc="268436406" symbol="getLookAt"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\Graphics3D.mc" id="10" lineNum="106" parent="globals/Graphics3D" pc="268436422" symbol="getLookAt"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\Graphics3D.mc" id="10" lineNum="107" parent="globals/Graphics3D" pc="268436438" symbol="getLookAt"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\Graphics3D.mc" id="10" lineNum="108" parent="globals/Graphics3D" pc="268436454" symbol="getLookAt"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\Graphics3D.mc" id="10" lineNum="109" parent="globals/Graphics3D" pc="268436487" symbol="getLookAt"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\Graphics3D.mc" id="10" lineNum="110" parent="globals/Graphics3D" pc="268436500" symbol="getLookAt"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\Graphics3D.mc" id="10" lineNum="111" parent="globals/Graphics3D" pc="268436513" symbol="getLookAt"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\Graphics3D.mc" id="10" lineNum="112" parent="globals/Graphics3D" pc="268436526" symbol="getLookAt"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\Graphics3D.mc" id="10" lineNum="113" parent="globals/Graphics3D" pc="268436539" symbol="getLookAt"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\Graphics3D.mc" id="11" lineNum="124" parent="globals/Graphics3D" pc="268436543" symbol="getOrtho"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\Graphics3D.mc" id="11" lineNum="126" parent="globals/Graphics3D" pc="268436555" symbol="getOrtho"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\Graphics3D.mc" id="11" lineNum="127" parent="globals/Graphics3D" pc="268436577" symbol="getOrtho"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\Graphics3D.mc" id="11" lineNum="128" parent="globals/Graphics3D" pc="268436596" symbol="getOrtho"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\Graphics3D.mc" id="11" lineNum="129" parent="globals/Graphics3D" pc="268436615" symbol="getOrtho"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\Graphics3D.mc" id="11" lineNum="130" parent="globals/Graphics3D" pc="268436634" symbol="getOrtho"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\Graphics3D.mc" id="11" lineNum="131" parent="globals/Graphics3D" pc="268436647" symbol="getOrtho"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\Graphics3D.mc" id="11" lineNum="132" parent="globals/Graphics3D" pc="268436666" symbol="getOrtho"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\Graphics3D.mc" id="11" lineNum="133" parent="globals/Graphics3D" pc="268436685" symbol="getOrtho"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\Graphics3D.mc" id="11" lineNum="134" parent="globals/Graphics3D" pc="268436704" symbol="getOrtho"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\Graphics3D.mc" id="12" lineNum="140" parent="globals/Graphics3D" pc="268436708" symbol="getPerspective"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\Graphics3D.mc" id="12" lineNum="142" parent="globals/Graphics3D" pc="268436720" symbol="getPerspective"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\Graphics3D.mc" id="12" lineNum="143" parent="globals/Graphics3D" pc="268436742" symbol="getPerspective"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\Graphics3D.mc" id="12" lineNum="144" parent="globals/Graphics3D" pc="268436773" symbol="getPerspective"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\Graphics3D.mc" id="12" lineNum="145" parent="globals/Graphics3D" pc="268436786" symbol="getPerspective"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\Graphics3D.mc" id="12" lineNum="146" parent="globals/Graphics3D" pc="268436796" symbol="getPerspective"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\Graphics3D.mc" id="12" lineNum="147" parent="globals/Graphics3D" pc="268436815" symbol="getPerspective"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\Graphics3D.mc" id="12" lineNum="148" parent="globals/Graphics3D" pc="268436840" symbol="getPerspective"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\Graphics3D.mc" id="12" lineNum="149" parent="globals/Graphics3D" pc="268436853" symbol="getPerspective"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\Graphics3D.mc" id="13" lineNum="170" parent="globals/Graphics3D/Graphics3D" pc="268436857" symbol="initialize"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\Graphics3D.mc" id="13" lineNum="171" parent="globals/Graphics3D/Graphics3D" pc="268436861" symbol="initialize"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\Graphics3D.mc" id="13" lineNum="172" parent="globals/Graphics3D/Graphics3D" pc="268436889" symbol="initialize"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\Graphics3D.mc" id="13" lineNum="173" parent="globals/Graphics3D/Graphics3D" pc="268436917" symbol="initialize"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\Graphics3D.mc" id="13" lineNum="174" parent="globals/Graphics3D/Graphics3D" pc="268436945" symbol="initialize"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\Graphics3D.mc" id="13" lineNum="175" parent="globals/Graphics3D/Graphics3D" pc="268436973" symbol="initialize"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\Graphics3D.mc" id="14" lineNum="183" parent="globals/Graphics3D/Graphics3D" pc="268436983" symbol="setModelMatrix"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\Graphics3D.mc" id="14" lineNum="184" parent="globals/Graphics3D/Graphics3D" pc="268436987" symbol="setModelMatrix"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\Graphics3D.mc" id="15" lineNum="190" parent="globals/Graphics3D/Graphics3D" pc="268436998" symbol="setViewMatrix"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\Graphics3D.mc" id="15" lineNum="191" parent="globals/Graphics3D/Graphics3D" pc="268437002" symbol="setViewMatrix"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\Graphics3D.mc" id="16" lineNum="200" parent="globals/Graphics3D/Graphics3D" pc="268437013" symbol="setProjectionMatrix"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\Graphics3D.mc" id="16" lineNum="201" parent="globals/Graphics3D/Graphics3D" pc="268437017" symbol="setProjectionMatrix"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\Graphics3D.mc" id="17" lineNum="207" parent="globals/Graphics3D/Graphics3D" pc="268437028" symbol="updateMatrix"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\Graphics3D.mc" id="17" lineNum="208" parent="globals/Graphics3D/Graphics3D" pc="268437032" symbol="updateMatrix"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\Graphics3D.mc" id="18" lineNum="214" parent="globals/Graphics3D/Graphics3D" pc="268437095" symbol="map3D2D"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\Graphics3D.mc" id="18" lineNum="216" parent="globals/Graphics3D/Graphics3D" pc="268437099" symbol="map3D2D"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\Graphics3D.mc" id="18" lineNum="217" parent="globals/Graphics3D/Graphics3D" pc="268437116" symbol="map3D2D"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\Graphics3D.mc" id="18" lineNum="222" parent="globals/Graphics3D/Graphics3D" pc="268437143" symbol="map3D2D"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\Graphics3D.mc" id="18" lineNum="224" parent="globals/Graphics3D/Graphics3D" pc="268437151" symbol="map3D2D"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\Graphics3D.mc" id="18" lineNum="225" parent="globals/Graphics3D/Graphics3D" pc="268437200" symbol="map3D2D"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\Graphics3D.mc" id="18" lineNum="227" parent="globals/Graphics3D/Graphics3D" pc="268437249" symbol="map3D2D"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\Graphics3D.mc" id="19" lineNum="236" parent="globals/Graphics3D/Graphics3D" pc="268437253" symbol="setDc"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\Graphics3D.mc" id="19" lineNum="237" parent="globals/Graphics3D/Graphics3D" pc="268437257" symbol="setDc"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\Graphics3D.mc" id="20" lineNum="246" parent="globals/Graphics3D/Graphics3D" pc="268437268" symbol="drawLine"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\Graphics3D.mc" id="20" lineNum="247" parent="globals/Graphics3D/Graphics3D" pc="268437272" symbol="drawLine"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\Graphics3D.mc" id="20" lineNum="248" parent="globals/Graphics3D/Graphics3D" pc="268437287" symbol="drawLine"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\Graphics3D.mc" id="20" lineNum="250" parent="globals/Graphics3D/Graphics3D" pc="268437302" symbol="drawLine"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\Graphics3D.mc" id="21" lineNum="261" parent="globals/Graphics3D/Graphics3D" pc="268437353" symbol="drawPoly"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\Graphics3D.mc" id="21" lineNum="262" parent="globals/Graphics3D/Graphics3D" pc="268437357" symbol="drawPoly"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\Graphics3D.mc" id="21" lineNum="263" parent="globals/Graphics3D/Graphics3D" pc="268437357" symbol="drawPoly"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\Graphics3D.mc" id="21" lineNum="264" parent="globals/Graphics3D/Graphics3D" pc="268437357" symbol="drawPoly"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\Graphics3D.mc" id="21" lineNum="265" parent="globals/Graphics3D/Graphics3D" pc="268437357" symbol="drawPoly"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\Graphics3D.mc" id="21" lineNum="266" parent="globals/Graphics3D/Graphics3D" pc="268437357" symbol="drawPoly"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\Graphics3D.mc" id="21" lineNum="267" parent="globals/Graphics3D/Graphics3D" pc="268437378" symbol="drawPoly"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\Graphics3D.mc" id="21" lineNum="268" parent="globals/Graphics3D/Graphics3D" pc="268437382" symbol="drawPoly"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\Graphics3D.mc" id="21" lineNum="269" parent="globals/Graphics3D/Graphics3D" pc="268437406" symbol="drawPoly"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\Graphics3D.mc" id="21" lineNum="271" parent="globals/Graphics3D/Graphics3D" pc="268437424" symbol="drawPoly"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\Graphics3D.mc" id="21" lineNum="272" parent="globals/Graphics3D/Graphics3D" pc="268437474" symbol="drawPoly"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\Graphics3D.mc" id="21" lineNum="274" parent="globals/Graphics3D/Graphics3D" pc="268437491" symbol="drawPoly"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\Graphics3D.mc" id="21" lineNum="275" parent="globals/Graphics3D/Graphics3D" pc="268437496" symbol="drawPoly"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\Graphics3D.mc" id="22" lineNum="160" parent="globals/Graphics3D/Graphics3D" pc="268444050" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\Graphics3D.mc" id="23" lineNum="23" parent="globals/Graphics3D" pc="268444049" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\SV3DView.mc" id="25" lineNum="16" parent="globals/SV3DView" pc="268437550" symbol="initialize"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\SV3DView.mc" id="25" lineNum="17" parent="globals/SV3DView" pc="268437554" symbol="initialize"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\SV3DView.mc" id="25" lineNum="18" parent="globals/SV3DView" pc="268437578" symbol="initialize"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\SV3DView.mc" id="25" lineNum="20" parent="globals/SV3DView" pc="268437612" symbol="initialize"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\SV3DView.mc" id="25" lineNum="41" parent="globals/SV3DView" pc="268437612" symbol="initialize"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\SV3DView.mc" id="25" lineNum="43" parent="globals/SV3DView" pc="268437764" symbol="initialize"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\SV3DView.mc" id="25" lineNum="47" parent="globals/SV3DView" pc="268437784" symbol="initialize"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\SV3DView.mc" id="25" lineNum="49" parent="globals/SV3DView" pc="268437806" symbol="initialize"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\SV3DView.mc" id="25" lineNum="50" parent="globals/SV3DView" pc="268437835" symbol="initialize"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\SV3DView.mc" id="25" lineNum="51" parent="globals/SV3DView" pc="268437864" symbol="initialize"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\SV3DView.mc" id="25" lineNum="54" parent="globals/SV3DView" pc="268437913" symbol="initialize"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\SV3DView.mc" id="25" lineNum="56" parent="globals/SV3DView" pc="268437974" symbol="initialize"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\SV3DView.mc" id="25" lineNum="58" parent="globals/SV3DView" pc="268438043" symbol="initialize"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\SV3DView.mc" id="25" lineNum="60" parent="globals/SV3DView" pc="268438063" symbol="initialize"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\SV3DView.mc" id="26" lineNum="66" parent="globals/SV3DView" pc="268438082" symbol="onUpdate"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\SV3DView.mc" id="26" lineNum="67" parent="globals/SV3DView" pc="268438086" symbol="onUpdate"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\SV3DView.mc" id="26" lineNum="68" parent="globals/SV3DView" pc="268438099" symbol="onUpdate"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\SV3DView.mc" id="26" lineNum="71" parent="globals/SV3DView" pc="268438112" symbol="onUpdate"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\SV3DView.mc" id="26" lineNum="72" parent="globals/SV3DView" pc="268438148" symbol="onUpdate"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\SV3DView.mc" id="26" lineNum="75" parent="globals/SV3DView" pc="268438160" symbol="onUpdate"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\SV3DView.mc" id="26" lineNum="76" parent="globals/SV3DView" pc="268438196" symbol="onUpdate"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\SV3DView.mc" id="26" lineNum="78" parent="globals/SV3DView" pc="268438253" symbol="onUpdate"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\SV3DView.mc" id="26" lineNum="80" parent="globals/SV3DView" pc="268438266" symbol="onUpdate"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\SV3DView.mc" id="26" lineNum="81" parent="globals/SV3DView" pc="268438302" symbol="onUpdate"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\SV3DView.mc" id="26" lineNum="82" parent="globals/SV3DView" pc="268438356" symbol="onUpdate"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\SV3DView.mc" id="26" lineNum="87" parent="globals/SV3DView" pc="268438360" symbol="onUpdate"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\SV3DView.mc" id="26" lineNum="88" parent="globals/SV3DView" pc="268438466" symbol="onUpdate"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\SV3DView.mc" id="26" lineNum="89" parent="globals/SV3DView" pc="268438500" symbol="onUpdate"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\SV3DView.mc" id="26" lineNum="90" parent="globals/SV3DView" pc="268438545" symbol="onUpdate"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\SV3DView.mc" id="26" lineNum="93" parent="globals/SV3DView" pc="268438651" symbol="onUpdate"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\SV3DView.mc" id="26" lineNum="94" parent="globals/SV3DView" pc="268438687" symbol="onUpdate"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\SV3DView.mc" id="26" lineNum="95" parent="globals/SV3DView" pc="268438750" symbol="onUpdate"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\SV3DView.mc" id="26" lineNum="98" parent="globals/SV3DView" pc="268438801" symbol="onUpdate"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\SV3DView.mc" id="26" lineNum="101" parent="globals/SV3DView" pc="268438821" symbol="onUpdate"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\SV3DView.mc" id="26" lineNum="102" parent="globals/SV3DView" pc="268438857" symbol="onUpdate"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\SV3DView.mc" id="26" lineNum="103" parent="globals/SV3DView" pc="268438965" symbol="onUpdate"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\SV3DView.mc" id="26" lineNum="104" parent="globals/SV3DView" pc="268439001" symbol="onUpdate"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\SV3DView.mc" id="26" lineNum="105" parent="globals/SV3DView" pc="268439109" symbol="onUpdate"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\SV3DView.mc" id="26" lineNum="106" parent="globals/SV3DView" pc="268439145" symbol="onUpdate"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\SV3DView.mc" id="26" lineNum="107" parent="globals/SV3DView" pc="268439253" symbol="onUpdate"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\SV3DView.mc" id="26" lineNum="108" parent="globals/SV3DView" pc="268439289" symbol="onUpdate"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\SV3DView.mc" id="26" lineNum="109" parent="globals/SV3DView" pc="268439397" symbol="onUpdate"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\SV3DView.mc" id="26" lineNum="110" parent="globals/SV3DView" pc="268439433" symbol="onUpdate"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\SV3DView.mc" id="26" lineNum="111" parent="globals/SV3DView" pc="268439541" symbol="onUpdate"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\SV3DView.mc" id="26" lineNum="112" parent="globals/SV3DView" pc="268439577" symbol="onUpdate"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\SV3DView.mc" id="26" lineNum="115" parent="globals/SV3DView" pc="268439685" symbol="onUpdate"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\SV3DView.mc" id="26" lineNum="117" parent="globals/SV3DView" pc="268439721" symbol="onUpdate"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\SV3DView.mc" id="26" lineNum="119" parent="globals/SV3DView" pc="268439959" symbol="onUpdate"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\SV3DView.mc" id="26" lineNum="120" parent="globals/SV3DView" pc="268439995" symbol="onUpdate"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\SV3DView.mc" id="26" lineNum="122" parent="globals/SV3DView" pc="268440233" symbol="onUpdate"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\SV3DView.mc" id="26" lineNum="123" parent="globals/SV3DView" pc="268440269" symbol="onUpdate"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\SV3DView.mc" id="26" lineNum="124" parent="globals/SV3DView" pc="268440377" symbol="onUpdate"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\SV3DView.mc" id="26" lineNum="125" parent="globals/SV3DView" pc="268440485" symbol="onUpdate"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\SV3DView.mc" id="26" lineNum="126" parent="globals/SV3DView" pc="268440593" symbol="onUpdate"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\SV3DView.mc" id="26" lineNum="129" parent="globals/SV3DView" pc="268440701" symbol="onUpdate"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\SV3DView.mc" id="26" lineNum="130" parent="globals/SV3DView" pc="268440737" symbol="onUpdate"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\SV3DView.mc" id="26" lineNum="133" parent="globals/SV3DView" pc="268440982" symbol="onUpdate"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\SV3DView.mc" id="26" lineNum="137" parent="globals/SV3DView" pc="268441165" symbol="onUpdate"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\SV3DView.mc" id="26" lineNum="138" parent="globals/SV3DView" pc="268441201" symbol="onUpdate"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\SV3DView.mc" id="27" lineNum="12" parent="globals/SV3DView" pc="268443920" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\SV3DView.mc" id="27" lineNum="12" parent="globals/SV3DView" pc="268443920" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\SV3DView.mc" id="28" lineNum="150" parent="globals/SV3DDelegate" pc="268441355" symbol="initialize"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\SV3DView.mc" id="28" lineNum="151" parent="globals/SV3DDelegate" pc="268441359" symbol="initialize"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\SV3DView.mc" id="28" lineNum="152" parent="globals/SV3DDelegate" pc="268441377" symbol="initialize"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\SV3DView.mc" id="29" lineNum="155" parent="globals/SV3DDelegate" pc="268441388" symbol="onNextPage"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\SV3DView.mc" id="29" lineNum="156" parent="globals/SV3DDelegate" pc="268441392" symbol="onNextPage"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\SV3DView.mc" id="29" lineNum="157" parent="globals/SV3DDelegate" pc="268441495" symbol="onNextPage"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\SV3DView.mc" id="29" lineNum="158" parent="globals/SV3DDelegate" pc="268441519" symbol="onNextPage"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\SV3DView.mc" id="30" lineNum="161" parent="globals/SV3DDelegate" pc="268441523" symbol="onPreviousPage"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\SV3DView.mc" id="30" lineNum="162" parent="globals/SV3DDelegate" pc="268441527" symbol="onPreviousPage"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\SV3DView.mc" id="30" lineNum="163" parent="globals/SV3DDelegate" pc="268441636" symbol="onPreviousPage"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\SV3DView.mc" id="30" lineNum="164" parent="globals/SV3DDelegate" pc="268441660" symbol="onPreviousPage"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\SV3DView.mc" id="31" lineNum="146" parent="globals/SV3DDelegate" pc="268443939" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\SV3DView.mc" id="31" lineNum="146" parent="globals/SV3DDelegate" pc="268443939" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\SVMenuDelegate.mc" id="33" lineNum="11" parent="globals/SVMenuDelegate" pc="268441664" symbol="initialize"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\SVMenuDelegate.mc" id="33" lineNum="12" parent="globals/SVMenuDelegate" pc="268441668" symbol="initialize"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\SVMenuDelegate.mc" id="34" lineNum="15" parent="globals/SVMenuDelegate" pc="268441687" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\SVMenuDelegate.mc" id="34" lineNum="16" parent="globals/SVMenuDelegate" pc="268441691" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\SVMenuDelegate.mc" id="34" lineNum="17" parent="globals/SVMenuDelegate" pc="268441691" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\SVMenuDelegate.mc" id="34" lineNum="18" parent="globals/SVMenuDelegate" pc="268441702" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\SVMenuDelegate.mc" id="34" lineNum="19" parent="globals/SVMenuDelegate" pc="268441752" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\SVMenuDelegate.mc" id="34" lineNum="20" parent="globals/SVMenuDelegate" pc="268441809" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\SVMenuDelegate.mc" id="34" lineNum="21" parent="globals/SVMenuDelegate" pc="268441820" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\SVMenuDelegate.mc" id="34" lineNum="22" parent="globals/SVMenuDelegate" pc="268441870" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\SVMenuDelegate.mc" id="35" lineNum="26" parent="globals/SVMenuDelegate" pc="268441928" symbol="onBack"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\SVMenuDelegate.mc" id="35" lineNum="27" parent="globals/SVMenuDelegate" pc="268441932" symbol="onBack"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\SVMenuDelegate.mc" id="36" lineNum="32" parent="globals/SVMenuDelegate" pc="268441961" symbol="queryAccel"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\SVMenuDelegate.mc" id="36" lineNum="33" parent="globals/SVMenuDelegate" pc="268441965" symbol="queryAccel"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\SVMenuDelegate.mc" id="36" lineNum="34" parent="globals/SVMenuDelegate" pc="268441984" symbol="queryAccel"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\SVMenuDelegate.mc" id="36" lineNum="35" parent="globals/SVMenuDelegate" pc="268441995" symbol="queryAccel"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\SVMenuDelegate.mc" id="36" lineNum="38" parent="globals/SVMenuDelegate" pc="268442007" symbol="queryAccel"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\SVMenuDelegate.mc" id="37" lineNum="42" parent="globals/SVMenuDelegate" pc="268442020" symbol="queryMag"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\SVMenuDelegate.mc" id="37" lineNum="43" parent="globals/SVMenuDelegate" pc="268442024" symbol="queryMag"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\SVMenuDelegate.mc" id="37" lineNum="44" parent="globals/SVMenuDelegate" pc="268442043" symbol="queryMag"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\SVMenuDelegate.mc" id="37" lineNum="45" parent="globals/SVMenuDelegate" pc="268442054" symbol="queryMag"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\SVMenuDelegate.mc" id="37" lineNum="48" parent="globals/SVMenuDelegate" pc="268442066" symbol="queryMag"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\SVMenuDelegate.mc" id="38" lineNum="57" parent="globals/SVMenuDelegate" pc="268442069" symbol="getSimSensor3D"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\SVMenuDelegate.mc" id="38" lineNum="59" parent="globals/SVMenuDelegate" pc="268442073" symbol="getSimSensor3D"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\SVMenuDelegate.mc" id="38" lineNum="60" parent="globals/SVMenuDelegate" pc="268442121" symbol="getSimSensor3D"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\SVMenuDelegate.mc" id="38" lineNum="61" parent="globals/SVMenuDelegate" pc="268442169" symbol="getSimSensor3D"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\SVMenuDelegate.mc" id="38" lineNum="62" parent="globals/SVMenuDelegate" pc="268442217" symbol="getSimSensor3D"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\SVMenuDelegate.mc" id="39" lineNum="9" parent="globals/SVMenuDelegate" pc="268443977" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\SVMenuDelegate.mc" id="39" lineNum="55" parent="globals/SVMenuDelegate" pc="268443995" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\SVMenuDelegate.mc" id="39" lineNum="9" parent="globals/SVMenuDelegate" pc="268443977" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\SVBaseView.mc" id="41" lineNum="31" parent="globals/SVBaseView" pc="268442227" symbol="initialize"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\SVBaseView.mc" id="41" lineNum="32" parent="globals/SVBaseView" pc="268442231" symbol="initialize"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\SVBaseView.mc" id="41" lineNum="33" parent="globals/SVBaseView" pc="268442249" symbol="initialize"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\SVBaseView.mc" id="41" lineNum="34" parent="globals/SVBaseView" pc="268442259" symbol="initialize"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\SVBaseView.mc" id="41" lineNum="35" parent="globals/SVBaseView" pc="268442269" symbol="initialize"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\SVBaseView.mc" id="41" lineNum="36" parent="globals/SVBaseView" pc="268442279" symbol="initialize"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\SVBaseView.mc" id="41" lineNum="37" parent="globals/SVBaseView" pc="268442288" symbol="initialize"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\SVBaseView.mc" id="42" lineNum="40" parent="globals/SVBaseView" pc="268442298" symbol="onShow"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\SVBaseView.mc" id="42" lineNum="41" parent="globals/SVBaseView" pc="268442302" symbol="onShow"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\SVBaseView.mc" id="42" lineNum="42" parent="globals/SVBaseView" pc="268442315" symbol="onShow"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\SVBaseView.mc" id="42" lineNum="43" parent="globals/SVBaseView" pc="268442351" symbol="onShow"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\SVBaseView.mc" id="43" lineNum="47" parent="globals/SVBaseView" pc="268442399" symbol="onHide"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\SVBaseView.mc" id="43" lineNum="48" parent="globals/SVBaseView" pc="268442403" symbol="onHide"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\SVBaseView.mc" id="44" lineNum="51" parent="globals/SVBaseView" pc="268442422" symbol="onTimer"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\SVBaseView.mc" id="44" lineNum="52" parent="globals/SVBaseView" pc="268442426" symbol="onTimer"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\SVBaseView.mc" id="44" lineNum="53" parent="globals/SVBaseView" pc="268442451" symbol="onTimer"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\SVBaseView.mc" id="45" lineNum="16" parent="globals/SVBaseView" pc="268443958" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\SVBaseView.mc" id="45" lineNum="16" parent="globals/SVBaseView" pc="268443958" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\cadenceApp.mc" id="47" lineNum="27" parent="globals/SensorViz" pc="268442468" symbol="initialize"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\cadenceApp.mc" id="47" lineNum="28" parent="globals/SensorViz" pc="268442472" symbol="initialize"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\cadenceApp.mc" id="48" lineNum="31" parent="globals/SensorViz" pc="268442491" symbol="onStart"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\cadenceApp.mc" id="49" lineNum="34" parent="globals/SensorViz" pc="268442496" symbol="onStop"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\cadenceApp.mc" id="50" lineNum="37" parent="globals/SensorViz" pc="268442501" symbol="getInitialView"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\cadenceApp.mc" id="50" lineNum="38" parent="globals/SensorViz" pc="268442505" symbol="getInitialView"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\cadenceApp.mc" id="51" lineNum="25" parent="globals/SensorViz" pc="268443852" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\cadenceApp.mc" id="51" lineNum="25" parent="globals/SensorViz" pc="268443852" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\Matrix.mc" id="53" lineNum="25" parent="globals/Matrix" pc="268442573" symbol="getZero"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\Matrix.mc" id="53" lineNum="26" parent="globals/Matrix" pc="268442585" symbol="getZero"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\Matrix.mc" id="53" lineNum="27" parent="globals/Matrix" pc="268442590" symbol="getZero"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\Matrix.mc" id="53" lineNum="28" parent="globals/Matrix" pc="268442590" symbol="getZero"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\Matrix.mc" id="53" lineNum="29" parent="globals/Matrix" pc="268442605" symbol="getZero"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\Matrix.mc" id="53" lineNum="31" parent="globals/Matrix" pc="268442628" symbol="getZero"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\Matrix.mc" id="54" lineNum="37" parent="globals/Matrix" pc="268442632" symbol="getEye"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\Matrix.mc" id="54" lineNum="38" parent="globals/Matrix" pc="268442644" symbol="getEye"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\Matrix.mc" id="54" lineNum="39" parent="globals/Matrix" pc="268442662" symbol="getEye"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\Matrix.mc" id="54" lineNum="40" parent="globals/Matrix" pc="268442662" symbol="getEye"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\Matrix.mc" id="54" lineNum="41" parent="globals/Matrix" pc="268442680" symbol="getEye"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\Matrix.mc" id="54" lineNum="43" parent="globals/Matrix" pc="268442706" symbol="getEye"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\Matrix.mc" id="55" lineNum="49" parent="globals/Matrix" pc="268442710" symbol="add"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\Matrix.mc" id="55" lineNum="50" parent="globals/Matrix" pc="268442722" symbol="add"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\Matrix.mc" id="55" lineNum="51" parent="globals/Matrix" pc="268442736" symbol="add"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\Matrix.mc" id="55" lineNum="52" parent="globals/Matrix" pc="268442736" symbol="add"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\Matrix.mc" id="55" lineNum="53" parent="globals/Matrix" pc="268442760" symbol="add"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\Matrix.mc" id="55" lineNum="55" parent="globals/Matrix" pc="268442789" symbol="add"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\Matrix.mc" id="56" lineNum="61" parent="globals/Matrix" pc="268442793" symbol="sub"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\Matrix.mc" id="56" lineNum="62" parent="globals/Matrix" pc="268442805" symbol="sub"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\Matrix.mc" id="56" lineNum="63" parent="globals/Matrix" pc="268442819" symbol="sub"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\Matrix.mc" id="56" lineNum="64" parent="globals/Matrix" pc="268442819" symbol="sub"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\Matrix.mc" id="56" lineNum="65" parent="globals/Matrix" pc="268442843" symbol="sub"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\Matrix.mc" id="56" lineNum="67" parent="globals/Matrix" pc="268442872" symbol="sub"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\Matrix.mc" id="57" lineNum="73" parent="globals/Matrix" pc="268442876" symbol="dot"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\Matrix.mc" id="57" lineNum="74" parent="globals/Matrix" pc="268442888" symbol="dot"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\Matrix.mc" id="57" lineNum="75" parent="globals/Matrix" pc="268442895" symbol="dot"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\Matrix.mc" id="57" lineNum="76" parent="globals/Matrix" pc="268442895" symbol="dot"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\Matrix.mc" id="57" lineNum="77" parent="globals/Matrix" pc="268442919" symbol="dot"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\Matrix.mc" id="57" lineNum="79" parent="globals/Matrix" pc="268442948" symbol="dot"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\Matrix.mc" id="58" lineNum="85" parent="globals/Matrix" pc="268442952" symbol="cross"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\Matrix.mc" id="58" lineNum="86" parent="globals/Matrix" pc="268442964" symbol="cross"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\Matrix.mc" id="58" lineNum="87" parent="globals/Matrix" pc="268442972" symbol="cross"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\Matrix.mc" id="58" lineNum="88" parent="globals/Matrix" pc="268443015" symbol="cross"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\Matrix.mc" id="58" lineNum="89" parent="globals/Matrix" pc="268443058" symbol="cross"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\Matrix.mc" id="58" lineNum="90" parent="globals/Matrix" pc="268443101" symbol="cross"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\Matrix.mc" id="59" lineNum="96" parent="globals/Matrix" pc="268443105" symbol="length"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\Matrix.mc" id="59" lineNum="97" parent="globals/Matrix" pc="268443117" symbol="length"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\Matrix.mc" id="59" lineNum="98" parent="globals/Matrix" pc="268443124" symbol="length"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\Matrix.mc" id="59" lineNum="99" parent="globals/Matrix" pc="268443124" symbol="length"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\Matrix.mc" id="59" lineNum="100" parent="globals/Matrix" pc="268443148" symbol="length"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\Matrix.mc" id="59" lineNum="102" parent="globals/Matrix" pc="268443177" symbol="length"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\Matrix.mc" id="60" lineNum="108" parent="globals/Matrix" pc="268443196" symbol="normalize"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\Matrix.mc" id="60" lineNum="109" parent="globals/Matrix" pc="268443208" symbol="normalize"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\Matrix.mc" id="60" lineNum="110" parent="globals/Matrix" pc="268443222" symbol="normalize"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\Matrix.mc" id="60" lineNum="111" parent="globals/Matrix" pc="268443237" symbol="normalize"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\Matrix.mc" id="60" lineNum="112" parent="globals/Matrix" pc="268443248" symbol="normalize"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\Matrix.mc" id="60" lineNum="114" parent="globals/Matrix" pc="268443257" symbol="normalize"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\Matrix.mc" id="60" lineNum="115" parent="globals/Matrix" pc="268443267" symbol="normalize"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\Matrix.mc" id="60" lineNum="116" parent="globals/Matrix" pc="268443267" symbol="normalize"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\Matrix.mc" id="60" lineNum="117" parent="globals/Matrix" pc="268443291" symbol="normalize"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\Matrix.mc" id="60" lineNum="119" parent="globals/Matrix" pc="268443317" symbol="normalize"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\Matrix.mc" id="61" lineNum="125" parent="globals/Matrix" pc="268443321" symbol="mul4x4"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\Matrix.mc" id="61" lineNum="126" parent="globals/Matrix" pc="268443333" symbol="mul4x4"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\Matrix.mc" id="61" lineNum="127" parent="globals/Matrix" pc="268443341" symbol="mul4x4"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\Matrix.mc" id="61" lineNum="128" parent="globals/Matrix" pc="268443341" symbol="mul4x4"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\Matrix.mc" id="61" lineNum="129" parent="globals/Matrix" pc="268443341" symbol="mul4x4"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\Matrix.mc" id="61" lineNum="130" parent="globals/Matrix" pc="268443359" symbol="mul4x4"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\Matrix.mc" id="61" lineNum="131" parent="globals/Matrix" pc="268443377" symbol="mul4x4"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\Matrix.mc" id="61" lineNum="132" parent="globals/Matrix" pc="268443384" symbol="mul4x4"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\Matrix.mc" id="61" lineNum="133" parent="globals/Matrix" pc="268443402" symbol="mul4x4"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\Matrix.mc" id="61" lineNum="135" parent="globals/Matrix" pc="268443449" symbol="mul4x4"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\Matrix.mc" id="61" lineNum="141" parent="globals/Matrix" pc="268443491" symbol="mul4x4"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\Matrix.mc" id="62" lineNum="148" parent="globals/Matrix" pc="268443495" symbol="mul4x4x1x4"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\Matrix.mc" id="62" lineNum="149" parent="globals/Matrix" pc="268443507" symbol="mul4x4x1x4"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\Matrix.mc" id="62" lineNum="150" parent="globals/Matrix" pc="268443515" symbol="mul4x4x1x4"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\Matrix.mc" id="62" lineNum="151" parent="globals/Matrix" pc="268443515" symbol="mul4x4x1x4"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\Matrix.mc" id="62" lineNum="152" parent="globals/Matrix" pc="268443515" symbol="mul4x4x1x4"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\Matrix.mc" id="62" lineNum="153" parent="globals/Matrix" pc="268443533" symbol="mul4x4x1x4"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\Matrix.mc" id="62" lineNum="154" parent="globals/Matrix" pc="268443540" symbol="mul4x4x1x4"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\Matrix.mc" id="62" lineNum="155" parent="globals/Matrix" pc="268443558" symbol="mul4x4x1x4"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\Matrix.mc" id="62" lineNum="157" parent="globals/Matrix" pc="268443596" symbol="mul4x4x1x4"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\Matrix.mc" id="62" lineNum="162" parent="globals/Matrix" pc="268443616" symbol="mul4x4x1x4"/>
+<entry filename="C:\\Users\\pierre\\dev\\garmin\\cadence\\source\\Matrix.mc" id="63" lineNum="20" parent="globals/Matrix" pc="268443813" symbol="&lt;init&gt;"/>
+<entry filename="Rez" id="65" lineNum="2" parent="globals/Rez/Drawables" pc="268443895" symbol="&lt;init&gt;"/>
+<entry filename="Rez" id="66" lineNum="6" parent="globals/Rez/Fonts" pc="268443916" symbol="&lt;init&gt;"/>
+<entry filename="Rez" id="67" lineNum="8" parent="globals/Rez/JsonData" pc="268443918" symbol="&lt;init&gt;"/>
+<entry filename="Rez" id="68" lineNum="10" parent="globals/Rez/Layouts" pc="268443917" symbol="&lt;init&gt;"/>
+<entry filename="Rez" id="69" lineNum="21" parent="globals/Rez/Menus/MainMenu" pc="268443620" symbol="initialize"/>
+<entry filename="Rez" id="69" lineNum="22" parent="globals/Rez/Menus/MainMenu" pc="268443624" symbol="initialize"/>
+<entry filename="Rez" id="69" lineNum="23" parent="globals/Rez/Menus/MainMenu" pc="268443642" symbol="initialize"/>
+<entry filename="Rez" id="69" lineNum="24" parent="globals/Rez/Menus/MainMenu" pc="268443699" symbol="initialize"/>
+<entry filename="Rez" id="69" lineNum="25" parent="globals/Rez/Menus/MainMenu" pc="268443755" symbol="initialize"/>
+<entry filename="Rez" id="70" lineNum="19" parent="globals/Rez/Menus/MainMenu" pc="268443897" symbol="&lt;init&gt;"/>
+<entry filename="Rez" id="70" lineNum="19" parent="globals/Rez/Menus/MainMenu" pc="268443897" symbol="&lt;init&gt;"/>
+<entry filename="Rez" id="71" lineNum="12" parent="globals/Rez/Menus" pc="268443896" symbol="&lt;init&gt;"/>
+<entry filename="Rez" id="72" lineNum="31" parent="globals/Rez/Strings" pc="268443919" symbol="&lt;init&gt;"/>
+<entry filename="Rez" id="73" lineNum="1" parent="globals/Rez" pc="268443871" symbol="&lt;init&gt;"/>
+<entry filename="Rez" id="73" lineNum="1" parent="globals/Rez" pc="268443871" symbol="&lt;init&gt;"/>
+</pcToLineNum>
+<symbolTable>
+<entry id="8388639" module="true" symbol="Graphics"/>
+<entry field="true" id="34" symbol="mG3D"/>
+<entry id="8389184" method="true" symbol="drawLine"/>
+<entry id="8388632" method="true" symbol="&lt;init&gt;"/>
+<entry id="5" module="true" symbol="globals/Rez/Menus"/>
+<entry id="25" method="true" symbol="normalize"/>
+<entry id="26" method="true" symbol="mul4x4"/>
+<entry field="true" id="36" symbol="mQuerySensorCB"/>
+<entry id="20" method="true" symbol="getZero"/>
+<entry id="53" method="true" symbol="setModelMatrix"/>
+<entry id="13" module="true" object="true" symbol="Graphics3D"/>
+<entry id="12" object="true" symbol="SVStartDelegate"/>
+<entry id="14" object="true" symbol="SV3DView"/>
+<entry field="true" id="8389605" symbol="accel"/>
+<entry field="true" id="50" symbol="mProjection"/>
+<entry field="true" id="8388611" module="true" symbol="Toybox"/>
+<entry id="44" method="true" symbol="getRotate"/>
+<entry field="true" id="35" symbol="mView"/>
+<entry id="2" module="true" symbol="globals/Matrix"/>
+<entry id="43" method="true" symbol="getTranslate"/>
+<entry field="true" id="33" symbol="AppName"/>
+<entry id="9" module="true" symbol="globals/Rez/Strings"/>
+<entry id="8388772" module="true" object="true" symbol="Fonts"/>
+<entry id="45" method="true" symbol="getScale"/>
+<entry id="15" object="true" symbol="SV3DDelegate"/>
+<entry field="true" id="8388795" method="true" symbol="length"/>
+<entry id="8388942" method="true" symbol="add"/>
+<entry id="8388648" module="true" symbol="WatchUi"/>
+<entry id="8389081" method="true" symbol="onBack"/>
+<entry field="true" id="41" symbol="SimSensor3D"/>
+<entry id="3" module="true" symbol="globals/Rez"/>
+<entry id="8389124" method="true" symbol="onUpdate"/>
+<entry id="8388771" module="true" object="true" symbol="Drawables"/>
+<entry id="22" method="true" symbol="sub"/>
+<entry id="8389079" method="true" symbol="onPreviousPage"/>
+<entry id="30" module="true" symbol="Menus"/>
+<entry id="7" module="true" symbol="globals/Rez/Layouts"/>
+<entry id="39" method="true" symbol="queryAccel"/>
+<entry id="11" object="true" symbol="SVStartView"/>
+<entry field="true" id="8389606" symbol="mag"/>
+<entry id="27" method="true" symbol="mul4x4x1x4"/>
+<entry id="55" method="true" symbol="setProjectionMatrix"/>
+<entry field="true" id="52" symbol="dc"/>
+<entry id="8" module="true" symbol="globals/Rez/JsonData"/>
+<entry id="4" module="true" symbol="globals/Rez/Drawables"/>
+<entry field="true" id="32" object="true" symbol="MainMenu"/>
+<entry id="18" object="true" symbol="SensorViz"/>
+<entry id="8388644" module="true" symbol="System"/>
+<entry id="42" method="true" symbol="getSimSensor3D"/>
+<entry id="10" module="true" symbol="globals/Graphics3D"/>
+<entry field="true" id="49" symbol="mModel"/>
+<entry id="54" method="true" symbol="setViewMatrix"/>
+<entry id="16" object="true" symbol="SVMenuDelegate"/>
+<entry id="8388769" module="true" object="true" symbol="Rez"/>
+<entry id="8388640" module="true" symbol="Lang"/>
+<entry id="8390088" module="true" object="true" symbol="JsonData"/>
+<entry id="57" method="true" symbol="map3D2D"/>
+<entry id="40" method="true" symbol="queryMag"/>
+<entry field="true" id="8388887" symbol="mData"/>
+<entry field="true" id="31" symbol="LauncherIcon"/>
+<entry id="8388610" symbol="statics"/>
+<entry id="8389123" method="true" symbol="onShow"/>
+<entry id="59" method="true" symbol="drawPoly"/>
+<entry id="17" object="true" symbol="SVBaseView"/>
+<entry field="true" id="28" symbol="firstShow"/>
+<entry id="8389350" module="true" symbol="globals"/>
+<entry id="21" method="true" symbol="getEye"/>
+<entry id="8388770" module="true" object="true" symbol="Strings"/>
+<entry id="8388702" method="true" symbol="initialize"/>
+<entry id="23" method="true" symbol="dot"/>
+<entry id="8389279" method="true" symbol="onStart"/>
+<entry id="8388641" module="true" symbol="Math"/>
+<entry id="24" method="true" symbol="cross"/>
+<entry field="true" id="8389093" symbol="mTitle"/>
+<entry id="8389280" method="true" symbol="getInitialView"/>
+<entry id="8389281" method="true" symbol="onStop"/>
+<entry id="8389109" method="true" symbol="onMenuItem"/>
+<entry id="48" method="true" symbol="getPerspective"/>
+<entry id="19" module="true" symbol="Matrix"/>
+<entry id="46" method="true" symbol="getLookAt"/>
+<entry field="true" id="8389710" symbol="mTime"/>
+<entry id="29" module="true" symbol="Layouts"/>
+<entry field="true" id="51" symbol="mMVP"/>
+<entry id="58" method="true" symbol="setDc"/>
+<entry id="47" method="true" symbol="getOrtho"/>
+<entry id="6" module="true" symbol="globals/Rez/Fonts"/>
+<entry id="56" method="true" symbol="updateMatrix"/>
+<entry field="true" id="37" symbol="mTimer"/>
+<entry id="8389125" method="true" symbol="onHide"/>
+<entry id="8389078" method="true" symbol="onNextPage"/>
+<entry id="38" method="true" symbol="onTimer"/>
+</symbolTable>
+<localVars>
+<entry endPc="268435719" name="result" stackId="4" startPc="268435665"/>
+<entry arg="true" endPc="268435720" name="x" stackId="1" startPc="268435653"/>
+<entry arg="true" endPc="268435720" name="z" stackId="3" startPc="268435653"/>
+<entry arg="true" endPc="268435720" name="y" stackId="2" startPc="268435653"/>
+<entry endPc="268436007" name="result" stackId="5" startPc="268435733"/>
+<entry endPc="268436007" name="c1" stackId="8" startPc="268435733"/>
+<entry endPc="268436007" name="s" stackId="6" startPc="268435733"/>
+<entry endPc="268436007" name="c" stackId="7" startPc="268435733"/>
+<entry arg="true" endPc="268436008" name="x" stackId="2" startPc="268435721"/>
+<entry arg="true" endPc="268436008" name="z" stackId="4" startPc="268435721"/>
+<entry arg="true" endPc="268436008" name="angle" stackId="1" startPc="268435721"/>
+<entry arg="true" endPc="268436008" name="y" stackId="3" startPc="268435721"/>
+<entry endPc="268436088" name="result" stackId="4" startPc="268436021"/>
+<entry arg="true" endPc="268436089" name="x" stackId="1" startPc="268436009"/>
+<entry arg="true" endPc="268436089" name="z" stackId="3" startPc="268436009"/>
+<entry arg="true" endPc="268436089" name="y" stackId="2" startPc="268436009"/>
+<entry endPc="268436541" name="x" stackId="5" startPc="268436102"/>
+<entry endPc="268436541" name="result" stackId="4" startPc="268436102"/>
+<entry endPc="268436541" name="z" stackId="7" startPc="268436102"/>
+<entry endPc="268436541" name="y" stackId="6" startPc="268436102"/>
+<entry arg="true" endPc="268436542" name="up" stackId="3" startPc="268436090"/>
+<entry arg="true" endPc="268436542" name="center" stackId="2" startPc="268436090"/>
+<entry arg="true" endPc="268436542" name="eye" stackId="1" startPc="268436090"/>
+<entry endPc="268436706" name="result" stackId="7" startPc="268436555"/>
+<entry arg="true" endPc="268436707" name="far" stackId="6" startPc="268436543"/>
+<entry arg="true" endPc="268436707" name="bottom" stackId="3" startPc="268436543"/>
+<entry arg="true" endPc="268436707" name="right" stackId="2" startPc="268436543"/>
+<entry arg="true" endPc="268436707" name="near" stackId="5" startPc="268436543"/>
+<entry arg="true" endPc="268436707" name="top" stackId="4" startPc="268436543"/>
+<entry arg="true" endPc="268436707" name="left" stackId="1" startPc="268436543"/>
+<entry endPc="268436855" name="result" stackId="5" startPc="268436720"/>
+<entry endPc="268436855" name="f" stackId="6" startPc="268436720"/>
+<entry arg="true" endPc="268436856" name="aspect" stackId="2" startPc="268436708"/>
+<entry arg="true" endPc="268436856" name="fov" stackId="1" startPc="268436708"/>
+<entry arg="true" endPc="268436856" name="zFar" stackId="4" startPc="268436708"/>
+<entry arg="true" endPc="268436856" name="zNear" stackId="3" startPc="268436708"/>
+<entry arg="true" endPc="268436997" name="matrix" stackId="1" startPc="268436983"/>
+<entry arg="true" endPc="268437012" name="matrix" stackId="1" startPc="268436998"/>
+<entry arg="true" endPc="268437027" name="matrix" stackId="1" startPc="268437013"/>
+<entry endPc="268437251" name="result" stackId="3" startPc="268437099"/>
+<entry endPc="268437251" name="f" stackId="2" startPc="268437099"/>
+<entry arg="true" endPc="268437252" name="point" stackId="1" startPc="268437095"/>
+<entry arg="true" endPc="268437267" name="adc" stackId="1" startPc="268437253"/>
+<entry arg="true" endPc="268437352" name="to" stackId="2" startPc="268437268"/>
+<entry arg="true" endPc="268437352" name="from" stackId="1" startPc="268437268"/>
+<entry endPc="268437548" name="pf" stackId="4" startPc="268437357"/>
+<entry endPc="268437548" name="i" stackId="6" startPc="268437357"/>
+<entry endPc="268437548" name="pt" stackId="5" startPc="268437357"/>
+<entry endPc="268437548" name="p0" stackId="3" startPc="268437357"/>
+<entry arg="true" endPc="268437549" name="close" stackId="2" startPc="268437353"/>
+<entry arg="true" endPc="268437549" name="pts" stackId="1" startPc="268437353"/>
+<entry endPc="268438080" name="cx" stackId="5" startPc="268437554"/>
+<entry endPc="268438080" name="m" stackId="4" startPc="268437554"/>
+<entry endPc="268438080" name="cy" stackId="6" startPc="268437554"/>
+<entry arg="true" endPc="268438081" name="time" stackId="3" startPc="268437550"/>
+<entry arg="true" endPc="268438081" name="querySensorCB" stackId="2" startPc="268437550"/>
+<entry arg="true" endPc="268438081" name="title" stackId="1" startPc="268437550"/>
+<entry endPc="268441353" name="spR" stackId="4" startPc="268438086"/>
+<entry endPc="268441353" name="height" stackId="3" startPc="268438086"/>
+<entry endPc="268441353" name="spPhi" stackId="6" startPc="268438086"/>
+<entry endPc="268441353" name="width" stackId="2" startPc="268438086"/>
+<entry endPc="268441353" name="spTheta" stackId="5" startPc="268438086"/>
+<entry endPc="268441353" name="spStr" stackId="7" startPc="268438086"/>
+<entry arg="true" endPc="268441354" name="dc" stackId="1" startPc="268438082"/>
+<entry arg="true" endPc="268441387" name="view" stackId="1" startPc="268441355"/>
+<entry endPc="268441926" name="view" stackId="2" startPc="268441691"/>
+<entry arg="true" endPc="268441927" name="item" stackId="1" startPc="268441687"/>
+<entry endPc="268442018" name="info" stackId="1" startPc="268441965"/>
+<entry endPc="268442067" name="info" stackId="1" startPc="268442024"/>
+<entry arg="true" endPc="268442297" name="time" stackId="3" startPc="268442227"/>
+<entry arg="true" endPc="268442297" name="querySensorCB" stackId="2" startPc="268442227"/>
+<entry arg="true" endPc="268442297" name="title" stackId="1" startPc="268442227"/>
+<entry arg="true" endPc="268442495" name="state" stackId="1" startPc="268442491"/>
+<entry arg="true" endPc="268442500" name="state" stackId="1" startPc="268442496"/>
+<entry endPc="268442630" name="result" stackId="2" startPc="268442585"/>
+<entry endPc="268442630" name="i" stackId="3" startPc="268442585"/>
+<entry arg="true" endPc="268442631" name="len" stackId="1" startPc="268442573"/>
+<entry endPc="268442708" name="result" stackId="2" startPc="268442644"/>
+<entry endPc="268442708" name="i" stackId="3" startPc="268442644"/>
+<entry arg="true" endPc="268442709" name="xy" stackId="1" startPc="268442632"/>
+<entry endPc="268442791" name="result" stackId="3" startPc="268442722"/>
+<entry endPc="268442791" name="i" stackId="4" startPc="268442722"/>
+<entry arg="true" endPc="268442792" name="b" stackId="2" startPc="268442710"/>
+<entry arg="true" endPc="268442792" name="a" stackId="1" startPc="268442710"/>
+<entry endPc="268442874" name="result" stackId="3" startPc="268442805"/>
+<entry endPc="268442874" name="i" stackId="4" startPc="268442805"/>
+<entry arg="true" endPc="268442875" name="b" stackId="2" startPc="268442793"/>
+<entry arg="true" endPc="268442875" name="a" stackId="1" startPc="268442793"/>
+<entry endPc="268442950" name="result" stackId="3" startPc="268442888"/>
+<entry endPc="268442950" name="i" stackId="4" startPc="268442888"/>
+<entry arg="true" endPc="268442951" name="b" stackId="2" startPc="268442876"/>
+<entry arg="true" endPc="268442951" name="a" stackId="1" startPc="268442876"/>
+<entry endPc="268443103" name="result" stackId="3" startPc="268442964"/>
+<entry arg="true" endPc="268443104" name="b" stackId="2" startPc="268442952"/>
+<entry arg="true" endPc="268443104" name="a" stackId="1" startPc="268442952"/>
+<entry endPc="268443194" name="result" stackId="2" startPc="268443117"/>
+<entry endPc="268443194" name="i" stackId="3" startPc="268443117"/>
+<entry arg="true" endPc="268443195" name="a" stackId="1" startPc="268443105"/>
+<entry endPc="268443319" name="m" stackId="4" startPc="268443208"/>
+<entry endPc="268443319" name="len" stackId="3" startPc="268443208"/>
+<entry endPc="268443319" name="result" stackId="2" startPc="268443208"/>
+<entry endPc="268443319" name="i" stackId="5" startPc="268443208"/>
+<entry arg="true" endPc="268443320" name="a" stackId="1" startPc="268443196"/>
+<entry endPc="268443493" name="x" stackId="5" startPc="268443333"/>
+<entry endPc="268443493" name="result" stackId="3" startPc="268443333"/>
+<entry endPc="268443493" name="i" stackId="7" startPc="268443333"/>
+<entry endPc="268443493" name="sum" stackId="4" startPc="268443333"/>
+<entry endPc="268443493" name="y" stackId="6" startPc="268443333"/>
+<entry arg="true" endPc="268443494" name="b" stackId="2" startPc="268443321"/>
+<entry arg="true" endPc="268443494" name="a" stackId="1" startPc="268443321"/>
+<entry endPc="268443618" name="result" stackId="3" startPc="268443507"/>
+<entry endPc="268443618" name="i" stackId="6" startPc="268443507"/>
+<entry endPc="268443618" name="sum" stackId="4" startPc="268443507"/>
+<entry endPc="268443618" name="y" stackId="5" startPc="268443507"/>
+<entry arg="true" endPc="268443619" name="b" stackId="2" startPc="268443495"/>
+<entry arg="true" endPc="268443619" name="a" stackId="1" startPc="268443495"/>
+</localVars>
+<annotations>
+<annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="LauncherIcon"/>
+<annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="mag"/>
+<annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="accel"/>
+<annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="MainMenu"/>
+<annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="AppName"/>
+</annotations>
+<dataEntryOffsetMappings>
+<dataEntry label="globals" offset="103" parentId="" symbolId="globals" type="module"/>
+<dataEntry label="globals/Matrix" offset="222" parentId="globals" symbolId="Matrix" type="module"/>
+<dataEntry label="globals/SVStartDelegate" offset="333" parentId="globals" symbolId="SVStartDelegate" type="class"/>
+<dataEntry label="globals/SVStartView" offset="380" parentId="globals" symbolId="SVStartView" type="class"/>
+<dataEntry label="globals/SensorViz" offset="443" parentId="globals" symbolId="SensorViz" type="class"/>
+<dataEntry label="globals/Rez" offset="514" parentId="globals" symbolId="Rez" type="module"/>
+<dataEntry label="globals/Rez/Drawables" offset="593" parentId="Rez" symbolId="Drawables" type="module"/>
+<dataEntry label="globals/Rez/Menus" offset="632" parentId="Rez" symbolId="Menus" type="module"/>
+<dataEntry label="globals/Rez/Menus/MainMenu" offset="671" parentId="Menus" symbolId="MainMenu" type="class"/>
+<dataEntry label="globals/Rez/Fonts" offset="718" parentId="Rez" symbolId="Fonts" type="module"/>
+<dataEntry label="globals/Rez/Layouts" offset="749" parentId="Rez" symbolId="Layouts" type="module"/>
+<dataEntry label="globals/Rez/JsonData" offset="780" parentId="Rez" symbolId="JsonData" type="module"/>
+<dataEntry label="globals/Rez/Strings" offset="811" parentId="Rez" symbolId="Strings" type="module"/>
+<dataEntry label="globals/SV3DView" offset="874" parentId="globals" symbolId="SV3DView" type="class"/>
+<dataEntry label="globals/SV3DDelegate" offset="937" parentId="globals" symbolId="SV3DDelegate" type="class"/>
+<dataEntry label="globals/SVBaseView" offset="1008" parentId="globals" symbolId="SVBaseView" type="class"/>
+<dataEntry label="globals/SVMenuDelegate" offset="1119" parentId="globals" symbolId="SVMenuDelegate" type="class"/>
+<dataEntry label="globals/Graphics3D" offset="1214" parentId="globals" symbolId="Graphics3D" type="module"/>
+<dataEntry label="globals/Graphics3D/Graphics3D" offset="1301" parentId="Graphics3D" symbolId="Graphics3D" type="class"/>
+</dataEntryOffsetMappings>
+<functions>
+<functionEntry accessMode="public" endPc="268435488" name="initialize" parent="SVStartView" startPc="268435456">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268435629" name="onShow" parent="SVStartView" startPc="268435489">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="protected" endPc="268443851" name="&lt;init&gt;" parent="SVStartView" startPc="268443833">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268435652" name="initialize" parent="SVStartDelegate" startPc="268435630">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="protected" endPc="268443832" name="&lt;init&gt;" parent="SVStartDelegate" startPc="268443814">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268435720" name="getTranslate" parent="Graphics3D" startPc="268435653">
+<param id="x"/>
+<param id="y"/>
+<param id="z"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268436008" name="getRotate" parent="Graphics3D" startPc="268435721">
+<param id="angle"/>
+<param id="x"/>
+<param id="y"/>
+<param id="z"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268436089" name="getScale" parent="Graphics3D" startPc="268436009">
+<param id="x"/>
+<param id="y"/>
+<param id="z"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268436542" name="getLookAt" parent="Graphics3D" startPc="268436090">
+<param id="eye"/>
+<param id="center"/>
+<param id="up"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268436707" name="getOrtho" parent="Graphics3D" startPc="268436543">
+<param id="left"/>
+<param id="right"/>
+<param id="bottom"/>
+<param id="top"/>
+<param id="near"/>
+<param id="far"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268436856" name="getPerspective" parent="Graphics3D" startPc="268436708">
+<param id="fov"/>
+<param id="aspect"/>
+<param id="zNear"/>
+<param id="zFar"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268436982" name="initialize" parent="Graphics3D" startPc="268436857">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268436997" name="setModelMatrix" parent="Graphics3D" startPc="268436983">
+<param id="matrix"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268437012" name="setViewMatrix" parent="Graphics3D" startPc="268436998">
+<param id="matrix"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268437027" name="setProjectionMatrix" parent="Graphics3D" startPc="268437013">
+<param id="matrix"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268437094" name="updateMatrix" parent="Graphics3D" startPc="268437028">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268437252" name="map3D2D" parent="Graphics3D" startPc="268437095">
+<param id="point"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268437267" name="setDc" parent="Graphics3D" startPc="268437253">
+<param id="adc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268437352" name="drawLine" parent="Graphics3D" startPc="268437268">
+<param id="from"/>
+<param id="to"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268437549" name="drawPoly" parent="Graphics3D" startPc="268437353">
+<param id="pts"/>
+<param id="close"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="protected" endPc="268444050" name="&lt;init&gt;" parent="Graphics3D" startPc="268444050">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="protected" endPc="268444049" name="&lt;init&gt;" parent="Graphics3D" startPc="268444049">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268438081" name="initialize" parent="SV3DView" startPc="268437550">
+<param id="title"/>
+<param id="querySensorCB"/>
+<param id="time"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268441354" name="onUpdate" parent="SV3DView" startPc="268438082">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="protected" endPc="268443938" name="&lt;init&gt;" parent="SV3DView" startPc="268443920">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268441387" name="initialize" parent="SV3DDelegate" startPc="268441355">
+<param id="view"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268441522" name="onNextPage" parent="SV3DDelegate" startPc="268441388">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268441663" name="onPreviousPage" parent="SV3DDelegate" startPc="268441523">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="protected" endPc="268443957" name="&lt;init&gt;" parent="SV3DDelegate" startPc="268443939">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268441686" name="initialize" parent="SVMenuDelegate" startPc="268441664">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268441927" name="onMenuItem" parent="SVMenuDelegate" startPc="268441687">
+<param id="item"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268441960" name="onBack" parent="SVMenuDelegate" startPc="268441928">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268442019" name="queryAccel" parent="SVMenuDelegate" startPc="268441961">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268442068" name="queryMag" parent="SVMenuDelegate" startPc="268442020">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268442226" name="getSimSensor3D" parent="SVMenuDelegate" startPc="268442069">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="protected" endPc="268444048" name="&lt;init&gt;" parent="SVMenuDelegate" startPc="268443977">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268442297" name="initialize" parent="SVBaseView" startPc="268442227">
+<param id="title"/>
+<param id="querySensorCB"/>
+<param id="time"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268442398" name="onShow" parent="SVBaseView" startPc="268442298">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268442421" name="onHide" parent="SVBaseView" startPc="268442399">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268442467" name="onTimer" parent="SVBaseView" startPc="268442422">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="protected" endPc="268443976" name="&lt;init&gt;" parent="SVBaseView" startPc="268443958">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268442490" name="initialize" parent="SensorViz" startPc="268442468">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268442495" name="onStart" parent="SensorViz" startPc="268442491">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268442500" name="onStop" parent="SensorViz" startPc="268442496">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268442572" name="getInitialView" parent="SensorViz" startPc="268442501">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="protected" endPc="268443870" name="&lt;init&gt;" parent="SensorViz" startPc="268443852">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268442631" name="getZero" parent="Matrix" startPc="268442573">
+<param id="len"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268442709" name="getEye" parent="Matrix" startPc="268442632">
+<param id="xy"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268442792" name="add" parent="Matrix" startPc="268442710">
+<param id="a"/>
+<param id="b"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268442875" name="sub" parent="Matrix" startPc="268442793">
+<param id="a"/>
+<param id="b"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268442951" name="dot" parent="Matrix" startPc="268442876">
+<param id="a"/>
+<param id="b"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268443104" name="cross" parent="Matrix" startPc="268442952">
+<param id="a"/>
+<param id="b"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268443195" name="length" parent="Matrix" startPc="268443105">
+<param id="a"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268443320" name="normalize" parent="Matrix" startPc="268443196">
+<param id="a"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268443494" name="mul4x4" parent="Matrix" startPc="268443321">
+<param id="a"/>
+<param id="b"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268443619" name="mul4x4x1x4" parent="Matrix" startPc="268443495">
+<param id="a"/>
+<param id="b"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="protected" endPc="268443813" name="&lt;init&gt;" parent="Matrix" startPc="268443813">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="protected" endPc="268443895" name="&lt;init&gt;" parent="Drawables" startPc="268443895">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="protected" endPc="268443916" name="&lt;init&gt;" parent="Fonts" startPc="268443916">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="protected" endPc="268443918" name="&lt;init&gt;" parent="JsonData" startPc="268443918">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="protected" endPc="268443917" name="&lt;init&gt;" parent="Layouts" startPc="268443917">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268443811" name="initialize" parent="MainMenu" startPc="268443620">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="protected" endPc="268443915" name="&lt;init&gt;" parent="MainMenu" startPc="268443897">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="protected" endPc="268443896" name="&lt;init&gt;" parent="Menus" startPc="268443896">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="protected" endPc="268443919" name="&lt;init&gt;" parent="Strings" startPc="268443919">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="protected" endPc="268443894" name="&lt;init&gt;" parent="Rez" startPc="268443871">
+<documentation/>
+</functionEntry>
+</functions>
+</debugInfo>
